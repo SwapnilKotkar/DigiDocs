@@ -108,7 +108,7 @@ section p {
 .banner-area {
   position: relative;
   justify-content: center;  
-  min-height: 100vh; 
+  height: 100vh; 
   color: #fff;
   text-align: center;
 }
